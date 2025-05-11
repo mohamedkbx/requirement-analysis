@@ -70,6 +70,38 @@ Imagine a **property booking system**. A use case diagram might include:
 This visual structure helps ensure that all necessary interactions are accounted for before development begins.
 
 ---
+## 🔍 Key Activities in Requirement Analysis
+
+Requirement Analysis involves several structured activities to ensure a clear and complete understanding of what the software must achieve. Here are the main ones:
+
+### 1. 📥 Requirement Gathering (Elicitation)
+Collecting information from stakeholders through:
+- Interviews
+- Surveys and questionnaires
+- Workshops and brainstorming sessions
+- Observation and document analysis
+
+### 2. 📄 Requirement Documentation
+Organizing and documenting the gathered requirements in a structured format such as:
+- Software Requirement Specification (SRS)
+- User stories
+- Use case documents
+
+### 3. ✅ Requirement Validation
+Reviewing the documented requirements with stakeholders to ensure:
+- They are complete and unambiguous
+- They align with business goals
+- They are feasible within the technical and budgetary constraints
+
+### 4. 📊 Requirement Modeling
+Using diagrams and models (e.g., use case diagrams, flowcharts, data models) to visualize and better understand the requirements and system behavior.
+
+### 5. 🎯 Requirement Prioritization
+Identifying and ranking requirements based on:
+- Business value
+- Technical feasibility
+- Risk and impact
+- Stakeholder urgency
 
 ## ✅ Acceptance Criteria
 
