@@ -1,14 +1,16 @@
 # 📌 Requirement Analysis in Software Development
 
-## Why It Matters
+## ❓ What is Requirement Analysis?
 
-Requirement Analysis is one of the most critical stages in the Software Development Life Cycle (SDLC). It serves as the foundation upon which the entire system is built. Without clear, validated, and prioritized requirements, projects are more likely to run into scope creep, missed deadlines, or failed expectations.
+Requirement Analysis is the process of identifying, analyzing, and documenting the needs and expectations of stakeholders for a new or modified software system. It acts as a bridge between business problems and technology solutions. The goal is to ensure that developers build what the users actually need — not just what they say they want.
+
+This process includes understanding **what** the system should do (**functional requirements**) and **how** it should perform (**non-functional requirements**). It also involves constant communication with stakeholders to avoid ambiguities and misinterpretations.
 
 ---
 
-## 🔍 What Is Requirement Analysis?
+## 🔍 Why It Matters
 
-Requirement Analysis involves gathering, understanding, documenting, and validating what the stakeholders need from a software product. This includes both **functional** (what the system should do) and **non-functional** (how the system should perform) requirements.
+Requirement Analysis is one of the most critical stages in the Software Development Life Cycle (SDLC). It serves as the foundation upon which the entire system is built. Without clear, validated, and prioritized requirements, projects are more likely to run into scope creep, missed deadlines, or failed expectations.
 
 ---
 
@@ -34,4 +36,3 @@ Requirement Analysis involves gathering, understanding, documenting, and validat
 ## 📎 Final Note
 
 Strong requirement analysis is not just about writing down what the user wants — it's about deeply understanding the *why*, so you can design a product that solves the right problems effectively.
-
