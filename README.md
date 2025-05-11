@@ -54,7 +54,8 @@ These specify **how the system should perform**. They define the system’s qual
 Use Case Diagrams are a type of UML (Unified Modeling Language) diagram used during Requirement Analysis to visually represent **how users (actors)** interact with the system.
 
 ### 🎯 Purpose:
-![alx-booking-uc.png](https://github.com/user-attachments/assets/77802b7c-e6cc-4d94-a419-557557f440c4)
+
+![alx-booking-uc png](https://github.com/user-attachments/assets/b069957a-dbdc-4d1c-a399-690456b34e2a)
 
 
 - Identify system functionalities from a user’s perspective
